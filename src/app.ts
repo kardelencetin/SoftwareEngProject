@@ -1,35 +1,71 @@
 import express from "express";
 import axios from "axios";
 import cheerio from "cheerio";
+import redis from "redis";
 
+const client = redis.createClient()
 const app = express()
 const PORT = process.env.PORT || 4000
 app.use(express.json())
 
+client.on("error", function(error) {
+    if (error){
+
+        console.log(error)
+    }
+    console.log("başarılı")
+});
+// client.set("user","tugrul",(err,message)=>{
+//     if (err){console.log(err)}
+//     console.log(message)
+// })
+
+client.get("user",(err,message)=>{
+    console.log(message)
+})
 
 
 app.get('/browse/titles/:id',(req,res)=>{
     const url = "https://www.gutenberg.org/browse/titles/"+req.params.id ?? "a"
 
+    const id = req.params.id
+    client.hgetall(id, (err,recipe)=>{
+        if(recipe){
+            return res.status(200).send(JSON.parse(recipe["data"]))
+        }else { // When the data is not found in the cache then we can make request to the server
 
-    axios.get(url)
-        .then(function (response) {
-            // handle success
-            const $ = cheerio.load(response.data);
 
-            const data:any = []
-            $('.pgdbbytitle').find('h2').each((index,element)=>{
-                const title = $(element).text()
-                const link = $(element).find('a').attr('href')
-                const author = $(element).next().text()
-                data[index] = {title,author,link}
-            })
-            res.send(data)
-        })
-        .catch(function (error) {
-            // handle error
-            console.log(error);
-        })
+            axios.get(url)
+                .then(function (response) {
+                    // handle success
+                    const $ = cheerio.load(response.data);
+
+                    const data:any = []
+                    $('.pgdbbytitle').find('h2').each((index,element)=>{
+                        const title = $(element).text()
+                        const link = $(element).find('a').attr('href')
+                        const author = $(element).next().text()
+                        data[index] = {title,author,link}
+
+                    })
+                    client.hmset(id,{ data: JSON.stringify(data) } ,(err,res)=>{
+                        if(err){
+                            console.log(err)
+                        }else{
+                            console.log("başarılı")
+                        }
+
+                    })
+                    res.send({data:data})
+                })
+                .catch(function (error) {
+                    // handle error
+                    console.log(error);
+                })
+        }
+    })
+
+
 })
 
 app.get('/books/search/:query',(req,res)=>{
