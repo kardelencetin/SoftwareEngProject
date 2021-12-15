@@ -2,6 +2,7 @@ import express from "express";
 import axios from "axios";
 import cheerio from "cheerio";
 import redis from "redis";
+import fs from "fs";
 
 const client = redis.createClient()
 const app = express()
@@ -23,7 +24,18 @@ client.on("error", function(error) {
 client.get("user",(err,message)=>{
     console.log(message)
 })
+const mockUser = {
+    username:"tugrul",
+    password:"mercan"
+}
 
+app.post('/login',(req,res)=>{
+    const user = req.body.user
+    if (mockUser.username == user.username && mockUser.password == user.password){
+        res.send("token")
+    }
+    res.status(400).send("hata")
+})
 
 app.get('/browse/titles/:id',(req,res)=>{
     const url = "https://www.gutenberg.org/browse/titles/"+req.params.id ?? "a"
@@ -116,6 +128,14 @@ app.get('/ebooks/:id',(req,res)=>{
 
     }).catch(err=>{
         console.log(err)
+    })
+})
+
+app.get("/getBookContent/BookId/:bookId",(req,res)=>{
+    const bookId = req.params.bookId
+    const url = `https://www.gutenberg.org/cache/epub/${bookId}/pg${bookId}.txt`
+    axios.get(url).then((result)=>{
+        res.send(result.data)
     })
 })
 
