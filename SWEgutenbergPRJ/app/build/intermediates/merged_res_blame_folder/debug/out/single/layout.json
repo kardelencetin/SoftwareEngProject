@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_page.xml",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second_page.xml",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_second_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    }
+]

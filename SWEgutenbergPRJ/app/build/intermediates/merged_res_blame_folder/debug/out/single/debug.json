@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_from_right.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\anim\\slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_login_bg.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\ic_login_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_list.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\gradient_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_from_left.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\anim\\slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\layout_row_home_page.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\row_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_border.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\round_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_register_bg.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\ic_register_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_login_btn_bg.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\login_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_2.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\background_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\navigation_navigation_graph.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\navigation\\navigation_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_gutenberg_pht.png.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\gutenberg_pht.png"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_reading_books.gif.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\reading_books.gif"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_top.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\btn_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_3.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\background_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_page.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_to_right.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_1.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\drawable\\background_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_second_page.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\layout\\fragment_second_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_to_left.xml.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\muzaf\\AndroidStudioProjects\\SWEgutenbergPRJ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]

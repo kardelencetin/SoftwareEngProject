@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.SecondPageFragment">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
+    <TextView
+
+        android:layout_gravity="center_vertical"
+        android:id="@+id/brewersTips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="112dp"
+        android:layout_marginBottom="111dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:baselineAligned="false"
+        android:rotation="0"/>
+
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/beerDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="142dp"
+        android:ems="10"
+        android:baselineAligned="false"
+        android:rotation="0"/>
+
+
+
+</FrameLayout>

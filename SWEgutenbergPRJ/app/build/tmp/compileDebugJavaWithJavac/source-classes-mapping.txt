@@ -1,0 +1,12 @@
+com/muzaffer/swegutenbergprj/databinding/FragmentRegisterBinding.java
+ com.muzaffer.swegutenbergprj.databinding.FragmentRegisterBinding
+com/muzaffer/swegutenbergprj/databinding/FragmentSecondPageBinding.java
+ com.muzaffer.swegutenbergprj.databinding.FragmentSecondPageBinding
+com/muzaffer/swegutenbergprj/databinding/FragmentHomePageBinding.java
+ com.muzaffer.swegutenbergprj.databinding.FragmentHomePageBinding
+com/muzaffer/swegutenbergprj/databinding/ActivityMainBinding.java
+ com.muzaffer.swegutenbergprj.databinding.ActivityMainBinding
+com/muzaffer/swegutenbergprj/BuildConfig.java
+ com.muzaffer.swegutenbergprj.BuildConfig
+com/muzaffer/swegutenbergprj/databinding/FragmentLoginBinding.java
+ com.muzaffer.swegutenbergprj.databinding.FragmentLoginBinding
