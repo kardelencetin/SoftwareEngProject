@@ -35,115 +35,116 @@
 21-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:12:9-52
 22        android:supportsRtl="true"
 22-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:13:9-35
-23        android:theme="@style/Theme.SWEgutenbergPRJ"
-23-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:14:9-53
-24        android:usesCleartextTraffic="true" >
-24-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:8:9-44
-25        <activity
-25-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:15:9-23:20
-26            android:name="com.muzaffer.swegutenbergprj.MainActivity"
-26-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:16:13-41
-27            android:exported="true" >
-27-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:17:13-36
-28            <intent-filter>
-28-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:18:13-22:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:19:17-69
-29-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:19:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:21:17-77
-31-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:21:27-74
-32            </intent-filter>
-33        </activity>
-34        <activity
-34-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
-35            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-35-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
-36            android:excludeFromRecents="true"
-36-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
-37            android:exported="true"
-37-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
-38            android:launchMode="singleTask"
-38-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
-39            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-39-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
-40            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-40-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
-41
-42        <service
-42-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
-43            android:name="com.google.firebase.components.ComponentDiscoveryService"
-43-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
-44            android:directBootAware="true"
-44-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
-45            android:exported="false" >
-45-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
-46            <meta-data
-46-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
-47                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-47-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
-48                android:value="com.google.firebase.components.ComponentRegistrar" />
-48-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
-49        </service>
-50
-51        <provider
-51-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-52            android:name="com.squareup.picasso.PicassoProvider"
-52-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-53            android:authorities="com.muzaffer.swegutenbergprj.com.squareup.picasso"
-53-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-54            android:exported="false" />
-54-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-55
-56        <activity
-56-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
-57            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-57-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
-58            android:exported="false"
-58-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
-59            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-59-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
-60
-61        <provider
-61-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
-62            android:name="com.google.firebase.provider.FirebaseInitProvider"
-62-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-63            android:authorities="com.muzaffer.swegutenbergprj.firebaseinitprovider"
-63-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
-64            android:exported="false"
-64-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
-65            android:initOrder="100" />
-65-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
-66
-67        <meta-data
-67-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\b320304e3c70d53fa000b8cbc2c03110\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-68            android:name="com.google.android.gms.version"
-68-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\b320304e3c70d53fa000b8cbc2c03110\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-69            android:value="@integer/google_play_services_version" />
-69-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\b320304e3c70d53fa000b8cbc2c03110\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-70
-71        <provider
-71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-72            android:name="androidx.startup.InitializationProvider"
-72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-73            android:authorities="com.muzaffer.swegutenbergprj.androidx-startup"
-73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-74            android:exported="false" >
-74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-75            <meta-data
-75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-77                android:value="androidx.startup" />
-77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-78            <meta-data
-78-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\muzaf\.gradle\caches\transforms-3\12c015f8b2ea3f2c0de136441d06c78a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-79-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\muzaf\.gradle\caches\transforms-3\12c015f8b2ea3f2c0de136441d06c78a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-80                android:value="androidx.startup" />
-80-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\muzaf\.gradle\caches\transforms-3\12c015f8b2ea3f2c0de136441d06c78a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-81        </provider>
-82    </application>
-83
-84</manifest>
+23        android:testOnly="true"
+24        android:theme="@style/Theme.SWEgutenbergPRJ"
+24-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:14:9-53
+25        android:usesCleartextTraffic="true" >
+25-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:8:9-44
+26        <activity
+26-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:15:9-23:20
+27            android:name="com.muzaffer.swegutenbergprj.MainActivity"
+27-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:16:13-41
+28            android:exported="true" >
+28-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:17:13-36
+29            <intent-filter>
+29-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:18:13-22:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:19:17-69
+30-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:19:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:21:17-77
+32-->C:\Users\muzaf\AndroidStudioProjects\SWEgutenbergPRJ\app\src\main\AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+36            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+36-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+37            android:excludeFromRecents="true"
+37-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+38            android:exported="true"
+38-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+39            android:launchMode="singleTask"
+39-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+40            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+40-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+41            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+41-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+42
+43        <service
+43-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+44            android:name="com.google.firebase.components.ComponentDiscoveryService"
+44-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+45            android:directBootAware="true"
+45-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+46            android:exported="false" >
+46-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+47            <meta-data
+47-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+48                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+48-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+49                android:value="com.google.firebase.components.ComponentRegistrar" />
+49-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\muzaf\.gradle\caches\transforms-3\5e2e18a3039c3d14fbba2606db84eae2\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+50        </service>
+51
+52        <provider
+52-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+53            android:name="com.squareup.picasso.PicassoProvider"
+53-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+54            android:authorities="com.muzaffer.swegutenbergprj.com.squareup.picasso"
+54-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+55            android:exported="false" />
+55-->[com.squareup.picasso:picasso:2.71828] C:\Users\muzaf\.gradle\caches\transforms-3\5cba62c97e34a60d05947e4c17f4d9f6\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+56
+57        <activity
+57-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+58-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\muzaf\.gradle\caches\transforms-3\69a574e897d34b9d75b605d0bf0b4db7\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+61
+62        <provider
+62-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+63            android:name="com.google.firebase.provider.FirebaseInitProvider"
+63-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+64            android:authorities="com.muzaffer.swegutenbergprj.firebaseinitprovider"
+64-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+65            android:exported="false"
+65-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+66            android:initOrder="100" />
+66-->[com.google.firebase:firebase-common:19.3.0] C:\Users\muzaf\.gradle\caches\transforms-3\3723a9a872a1b09b5100a8c6a0f87780\transformed\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+67
+68        <meta-data
+68-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\b320304e3c70d53fa000b8cbc2c03110\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+69            android:name="com.google.android.gms.version"
+69-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\b320304e3c70d53fa000b8cbc2c03110\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+70            android:value="@integer/google_play_services_version" />
+70-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\b320304e3c70d53fa000b8cbc2c03110\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+74            android:authorities="com.muzaffer.swegutenbergprj.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\muzaf\.gradle\caches\transforms-3\30d329fa9ae7fd08b4f43fbc54488f40\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\muzaf\.gradle\caches\transforms-3\12c015f8b2ea3f2c0de136441d06c78a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\muzaf\.gradle\caches\transforms-3\12c015f8b2ea3f2c0de136441d06c78a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\muzaf\.gradle\caches\transforms-3\12c015f8b2ea3f2c0de136441d06c78a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+82        </provider>
+83    </application>
+84
+85</manifest>
