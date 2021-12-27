@@ -1,0 +1,14 @@
+com/kardelencetin/gutenbergmobile/databinding/FragmentRegisterBinding.java
+ com.kardelencetin.gutenbergmobile.databinding.FragmentRegisterBinding
+com/kardelencetin/gutenbergmobile/databinding/FragmentLoginBinding.java
+ com.kardelencetin.gutenbergmobile.databinding.FragmentLoginBinding
+com/kardelencetin/gutenbergmobile/databinding/ActivityMainBinding.java
+ com.kardelencetin.gutenbergmobile.databinding.ActivityMainBinding
+com/kardelencetin/gutenbergmobile/databinding/ItemUserBinding.java
+ com.kardelencetin.gutenbergmobile.databinding.ItemUserBinding
+com/kardelencetin/gutenbergmobile/DataBindingTriggerClass.java
+ com.kardelencetin.gutenbergmobile.DataBindingTriggerClass
+com/kardelencetin/gutenbergmobile/BuildConfig.java
+ com.kardelencetin.gutenbergmobile.BuildConfig
+com/kardelencetin/gutenbergmobile/databinding/FragmentBooksRecyclerViewBinding.java
+ com.kardelencetin.gutenbergmobile.databinding.FragmentBooksRecyclerViewBinding
